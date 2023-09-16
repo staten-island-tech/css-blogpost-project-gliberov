@@ -1,8 +1,8 @@
 body {
 
-    background-color: #f7feff;
-    color: blue;
-    font-size: 20px;
+    background-color: #4ba0a7;
+    font-family: 'Rubik', sans-serif;
+    font-size: 15px;
 }
 h1 {
     color: green;
@@ -14,34 +14,24 @@ h1 {
 
 .blogpost{
 background-color: #365816;
-color: #9fc9f7;
+color:purple;
 text-align: center;
-margin: 0% 64% 0% 5%;
+margin: 3% 20% 0% 20%;
 padding-top: 1%;
-padding-bottom: 1%;
+padding-bottom: 10%;
 border: 3px solid black;
 
 }
 
-.blogpost2{
-    background-color: #365816;
-    color: #9fc9f7;
-    text-align: center;
-    margin: 0% 64% 0% 5%;
-    padding-top: 1%;
-    padding-bottom: 1%;
-    border: 3px solid black;
-    }
 
-.blogpost3{
-    background-color: #365816;
-    color: #9fc9f7;
-    text-align: center;
-    margin: 0% 64% 0% 5%;
-    padding-top: 1%;
-    padding-bottom: 1%;
-    border: 3px solid black;    
-    }
 #id {
-    color: purple;
+    color: yellow;
+}
+
+#bid {
+    color:violet;
+}
+
+#cid {
+    color:orange;
 }
